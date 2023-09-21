@@ -14,8 +14,8 @@
 - ⚡ Fun fact **I can speak Japanese 🇯🇵**
 
 <p align="left">
-<h3>LinkedIn</h3><a href="https://linkedin.com/in/joshua-thompson-476a31268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-thompson-476a31268" height="30" width="40" /></a>
-<h3>Medium</h3><a href="https://medium.com/@o-app-pesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@o-app-pesi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joshua-thompson-476a31268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-thompson-476a31268" height="30" width="40" />LinkedIn: </a>
+<a href="https://medium.com/@o-app-pesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@o-app-pesi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
