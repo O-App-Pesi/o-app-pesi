@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact **I can speak Japanese 🇯🇵**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joshua-thompson-476a31268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-thompson-476a31268" height="30" width="40" /></a>
