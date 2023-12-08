@@ -17,8 +17,12 @@ A mock portfolio website, my first project during my Diploma of IT, made purely 
 # Tech Skills:
 
 Languages: HTML, CSS (Sass), JavaScript, Python, Java, Git
+
 Frameworks: Flask, ExpressJS, ReactJS
+
 Systems: Windows OS, MacOS, WSL, Terminal
+
 Editors: VSCode, Eclipse, Github
+
 Databases: MySQL, MongoDB
 
