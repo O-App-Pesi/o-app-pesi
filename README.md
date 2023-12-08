@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💥 Hello and thanks for taking the time to check out my Page! 💥
-<span style="color:blue"> I'm a junior web developer and I'm currently looking for opportunities </span>
+## I'm a junior web developer and I'm currently looking for opportunities
 
 </div>
 
@@ -21,17 +21,13 @@ A terminal application made using Python that simulates the experience of visiti
 
 ### [API Webserver Project](https://github.com/O-App-Pesi/apiwebserver)
 
-A Web API built using Flask, Bcrypt, Marshmallow, using JWTs, written in Python. It is the back-end of a potential food diary app.
+A Web API built using Flask, Bcrypt, Marshmallow, using JWTs, written in Python. It is the back-end of a potential food diary app.  
 
-# Tech Skills:
+# Tech Skills:  
 
-**Languages**: HTML, CSS (Sass), JavaScript, Python, Java, Git
-
-**Frameworks**: Flask, ExpressJS, ReactJS
-
-**Systems**: Windows OS, MacOS, WSL, Terminal
-
-**Editors**: VSCode, Eclipse, Github
-
+**Languages**: HTML, CSS (Sass), JavaScript, Python, Java, Git  
+**Frameworks**: Flask, ExpressJS, ReactJS  
+**Systems**: Windows OS, MacOS, WSL, Terminal  
+**Editors**: VSCode, Eclipse, Github  
 **Databases**: MySQL, MongoDB
 
