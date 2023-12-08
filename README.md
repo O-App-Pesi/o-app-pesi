@@ -5,11 +5,11 @@
 
 </div>
 
-# Stats:
+## Stats:
 
 ### Josh, 32, Millenial
 
-# My Projects:
+## My Projects:
 
 ### [Mock Portfolio Website](https://stupendous-cheesecake-e19ba6.netlify.app/) | [Repository Link](https://github.com/O-App-Pesi/fluffy-couscous)
 
@@ -23,7 +23,7 @@ A terminal application made using Python that simulates the experience of visiti
 
 A Web API built using Flask, Bcrypt, Marshmallow, using JWTs, written in Python. It is the back-end of a potential food diary app.  
 
-# Tech Skills:  
+## Tech Skills:  
 
 **Languages**: HTML, CSS (Sass), JavaScript, Python, Java, Git  
 **Frameworks**: Flask, ExpressJS, ReactJS  
