@@ -2,6 +2,8 @@
 
 # Hello and thanks for taking the time to check out my Page!
 
+</div>
+
 ## I'm a junior web developer and I'm currently looking for opportunities
 
 # My Projects:
@@ -19,4 +21,3 @@ Systems: Windows OS, MacOS, WSL, Terminal
 Editors: VSCode, Eclipse, Github
 Databases: MySQL, MongoDB
 
-</div>
