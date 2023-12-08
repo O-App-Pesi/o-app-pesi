@@ -6,7 +6,8 @@
 
 # My Projects:
 
-<a src="https://stupendous-cheesecake-e19ba6.netlify.app/">Mock Portfolio Website</a>
+[Mock Portfolio Website](https://stupendous-cheesecake-e19ba6.netlify.app/)
+A mock portfolio website, my first project during my Diploma of IT, made purely using CSS and HTML. It includes animations and styles all chosen and created by me.
 
 
 
