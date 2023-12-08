@@ -1,17 +1,13 @@
 <div align="center">
 
 # 💥 Hello and thanks for taking the time to check out my Page! 💥
-## <span style="color:cyan"> I'm a junior web developer and I'm currently looking for opportunities </span>
+## <span style="color:cyan;"> I'm a junior web developer and I'm currently looking for opportunities </span>
 
 </div>
 
 # Stats:
 
-Josh
-
-32
-
-Millenial
+Josh, 32, Millenial
 
 # My Projects:
 
